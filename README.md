@@ -6,3 +6,4 @@
 3. Go to Import Tab of that database
 4. Select airplane.sql file
 5. Use IntelliJ Idea 
+6. Run Main.java File
